@@ -11,7 +11,7 @@ type Dog struct {
 }
 
 func (d Dog) Run() {
-	fmt.Println("dog run with for lagger")
+	fmt.Println("sdsdfsfsfsfdaf")
 }
 
 func (d Dog) Eate() {
